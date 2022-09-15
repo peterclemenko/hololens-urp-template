@@ -4,7 +4,7 @@
       "name": "Keijiro",
       "url": "https://registry.npmjs.com",
       "scopes": [ "jp.keijiro" ]
-    }
+    },
     {
       "name": "Maps SDK for Unity",
       "url": "https://unity.virtualearth.net/npm/registry/",
@@ -23,10 +23,10 @@
   ],
   "dependencies": {
     "com.microsoft.maps.unity": "0.11.0",
-    "com.microsoft.mixedreality.toolkit.examples": "2.7.2",
-    "com.microsoft.mixedreality.toolkit.foundation": "2.7.2",
-    "com.microsoft.mixedreality.toolkit.tools": "2.7.2",
-    "com.microsoft.mixedreality.toolkit.standardassets": "2.7.2",
+    "com.microsoft.mixedreality.toolkit.examples": "2.8.2",
+    "com.microsoft.mixedreality.toolkit.foundation": "2.8.2",
+    "com.microsoft.mixedreality.toolkit.tools": "2.8.2",
+    "com.microsoft.mixedreality.toolkit.standardassets": "2.8.2",
     "com.microsoft.mixedreality.openxr": "file:MixedReality/com.microsoft.mixedreality.openxr-0.9.0-preview.1.tgz",
     "com.unity.collab-proxy": "1.3.9",
     "com.unity.ide.rider": "2.0.7",
